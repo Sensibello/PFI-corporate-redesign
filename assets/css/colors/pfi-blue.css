@@ -1,0 +1,207 @@
+/*You can add your won color also */
+a {
+  color: #36526f;
+}
+
+a:hover {
+  color: #1d2d3e;
+}
+
+.section-titile-bg {
+  color: #36526f;
+}
+.section-title::before{
+  background-color: #36526f;
+}
+.subtitle{
+  color: #36526f;
+}
+.btn-common {
+  background: #36526f;
+}
+
+.btn-common:hover, .btn-common:focus {
+  background: #1d2d3e !important;
+}
+
+.btn-round {
+  background: #36526f !important;
+}
+
+.btn-round:hover {
+  background: #1d2d3e !important;
+}
+
+/* ScrollToTop */
+a.back-to-top i {
+  background-color: #36526f;
+}
+
+
+.slicknav_btn{
+  border-color: #36526f;
+}
+.slicknav_menu .slicknav_icon-bar{
+  background: #36526f;
+}
+.slicknav_menu .slicknav_icon-bar:hover{
+  background: #36526f;
+}
+.slicknav_nav a:hover, .slicknav_nav .active{
+  color: #36526f;
+}
+.slicknav_nav .dropdown li a.active{
+  color: #36526f;
+}
+.navbar li.active a.nav-link{
+  color: #36526f!important;
+}
+.navbar-expand-lg .navbar-nav .nav-link:hover{
+  color: #36526f!important;
+}
+.dropdown .dropdown-item:focus, .dropdown .dropdown-item:hover{
+  color: #36526f;
+}
+.dropdown .dropdown-menu .dropdown-item.active, .dropdown .dropdown-menu .dropdown-item:active{
+  color: #36526f;
+  background-color: #fafafa;
+}
+.work-counter-widget i {
+  color: #36526f;
+}
+.portfolio-nav ul.nav li a:hover,
+.portfolio-nav ul.nav li a.active{
+  background: #36526f;
+}
+.about-single i {
+  color: #36526f;
+}
+
+.about-single:hover i {
+  background: #36526f;
+}
+.Material-tab ul.nav.nav-tabs li .active{
+  background: #36526f !important;
+}
+.single-blog-post .post-meta a:hover {
+  color: #36526f;
+}
+
+.contact-widget-section .single-contact-widget i {
+  color: #36526f;
+}
+
+.single-service-widget i {
+  color: #36526f;
+}
+#testimonial-carousel .owl-pagination .owl-page.active span {
+  background: #36526f;
+}
+
+.form-submit button.btn-common.disabled {
+  background: #36526f !important;
+  opacity: 0.7;
+  cursor: not-allowed;
+}
+
+.owl-carousel .owl-controls .owl-page.active span {
+  border: none;
+  background: #36526f !important;
+  opacity: 1;
+}
+
+.Material-tab-default ul.nav.nav-tabs li.active a {
+  color: #36526f;
+}
+
+.Material-default-accordion .panel-default .panel-heading a {
+  background-color: #36526f;
+}
+
+.icon-round, .icon-box {
+  background: #36526f;
+}
+
+.icon-common {
+  color: #36526f;
+}
+
+.price span {
+  color: #36526f;
+}
+
+.pricing-button a.btn-pricing {
+  background-color: #36526f;
+}
+
+.Material-error-section h1 {
+  color: #36526f;
+}
+
+.comment-box .form-control, .comment-box textarea {
+  font-weight: 500;
+  color: #36526f;
+}
+
+.find-widget {
+  padding: 10px 0;
+}
+
+.find-widget i {
+  background: #36526f;
+}
+.footer-widget-container{
+  border-top: 4px solid #36526f;
+}
+ul.footer-contact li span{
+  background: #36526f;
+}
+.footer-contact ul li i{
+  background: #36526f;
+  border-color: #36526f;
+}
+.page-footer .link-widget ul li a:hover{
+  color: #36526f;
+}
+.page-footer .recent-widget p a:hover{
+  color: #36526f;
+}
+
+.form-group.is-focused .form-control {
+    outline: 0;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#36526f), to(#36526f)),
+    -webkit-gradient(linear, left top, left bottom, from(#D2D2D2), to(#D2D2D2));
+    background-image: -webkit-linear-gradient(#36526f, #36526f), -webkit-linear-gradient(#D2D2D2, #D2D2D2);
+    background-image: -o-linear-gradient(#36526f, #36526f), -o-linear-gradient(#D2D2D2, #D2D2D2);
+    background-image: linear-gradient(#36526f, #36526f), linear-gradient(#D2D2D2, #D2D2D2);
+}
+.page-footer .footer-title::before{
+  background: #36526f;
+}
+.page-footer .image-list .post-content .post-title a:hover{
+  color: #36526f;
+}
+.page-footer .widget .unordered-list li a:hover{
+  color: #36526f;
+}
+.features-block .media-left i{
+  background: #36526f;
+}
+.blog-sidebar-column .single-sidebar-widget .sidebar-widget-title{
+  background: #36526f;
+}
+.blog-sidebar-column .categories-list li a:hover{
+  color: #36526f;
+}
+.Material-tab-default .nav-tabs .nav-item.show .nav-link, .Material-tab-default .nav-tabs .nav-link.active{
+  color: #36526f;
+}
+.tabs-style-2 .nav-pills .nav-link.active, .tabs-style-2 .nav-pills .show>.nav-link{
+  color: #36526f;
+}
+.pricing-table-3 .table-header{
+   background: #36526f;
+}
+.owl-theme .owl-buttons div{
+  background: #36526f!important;;
+}
